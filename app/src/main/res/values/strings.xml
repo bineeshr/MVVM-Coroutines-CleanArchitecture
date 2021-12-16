@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="rating">Rating %s</string>
+    <string name="error">Something went wrong!</string>
+
+</resources>
